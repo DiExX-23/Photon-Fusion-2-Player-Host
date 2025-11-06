@@ -1,2 +1,2 @@
-# Photon---Tutorial---Fusion-2
-Este repositorio contiene la implementación inicial del tutorial oficial de Photon Fusion en Unity, con el propósito de comprender y probar el funcionamiento básico del sistema multijugador.
+# Photon-Fusion-2-Player-Host
+Juego multijugador de tanques en Unity usando Photon Fusion. Permite que dos jugadores se conecten (Host y Client), controlen sus tanques en tiempo real, disparen proyectiles y compitan por eliminar al oponente dentro de un mapa semi laberintico.
